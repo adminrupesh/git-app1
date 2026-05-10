@@ -1,0 +1,41 @@
+{
+  "smart-home-casting": {
+    "archived_at": null,
+    "created_at": "2026-05-10T13:53:14.324563+00:00",
+    "created_by": "agent",
+    "last_patched_at": "2026-05-10T14:07:24.617239+00:00",
+    "last_used_at": "2026-05-10T14:06:23.029755+00:00",
+    "last_viewed_at": "2026-05-10T14:06:23.028423+00:00",
+    "patch_count": 3,
+    "pinned": false,
+    "state": "active",
+    "use_count": 2,
+    "view_count": 2
+  },
+  "tuya-iot-devices": {
+    "archived_at": null,
+    "created_at": "2026-05-10T13:24:37.278787+00:00",
+    "created_by": "agent",
+    "last_patched_at": "2026-05-10T13:24:50.003198+00:00",
+    "last_used_at": "2026-05-10T13:51:38.378358+00:00",
+    "last_viewed_at": "2026-05-10T13:51:38.376729+00:00",
+    "patch_count": 1,
+    "pinned": false,
+    "state": "active",
+    "use_count": 2,
+    "view_count": 2
+  },
+  "web-scraping": {
+    "archived_at": null,
+    "created_at": "2026-05-10T12:50:26.157519+00:00",
+    "created_by": "agent",
+    "last_patched_at": "2026-05-10T13:36:49.659671+00:00",
+    "last_used_at": "2026-05-10T13:35:42.766734+00:00",
+    "last_viewed_at": "2026-05-10T13:35:42.765606+00:00",
+    "patch_count": 13,
+    "pinned": false,
+    "state": "active",
+    "use_count": 8,
+    "view_count": 8
+  }
+}
